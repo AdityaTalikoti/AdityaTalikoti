@@ -59,7 +59,7 @@ Browser-based games built in vanilla HTML/CSS/JS. Started as a way to solidify f
 
 ---
 
-## Let's connect
+# Let's connect
 
 If you're working on something in the backend / API space and want a collaborator — or if you just want to talk code — reach out.
 
