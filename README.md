@@ -53,7 +53,6 @@ Browser-based games built in vanilla HTML/CSS/JS. Started as a way to solidify f
 
 - Improving API design — authentication, versioning, error handling done right
 - Working through DSA systematically to prepare for technical interviews
-- Exploring how larger backend systems are structured and scaled
 - Looking to contribute to open-source projects where I can add real value
 
 
