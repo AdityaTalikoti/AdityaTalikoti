@@ -12,7 +12,7 @@ Currently a student, but I treat every project like it's going to production.
 
 ## About
 
-I'm a developer who gravitates towards the Fullstack — UI/UX, APIs, data flow, clean architecture. I enjoy figuring out *why* something breaks just as much as fixing it.
+I'm a developer who gravitates towards the Fullstack — UI/UX, APIs, data flow, clean architecture. I enjoy figuring out why something breaks just as much as fixing it.
 
 Outside of structured learning, I build projects to close the gap between knowing something and actually understanding it.
 
