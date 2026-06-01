@@ -29,7 +29,7 @@ I care about writing code that other people (and future me) can actually read.
 `Flutter` `Git` `GitHub` `VS Code`
 
 **Currently learning**
-`cloud Computing` `API authentication patterns`
+`cloud Computing` 
 
 ---
 
