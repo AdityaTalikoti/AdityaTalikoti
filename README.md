@@ -26,7 +26,7 @@ I care about writing code that other people (and future me) can actually read.
 `Python` `HTML` `CSS` `JavaScript` `React`
 
 **Tools & Ecosystem**
-`Flutter` `Git` `GitHub` `VS Code`
+`Flutter` `Git` `GitHub` 
 
 **Currently learning**
 `cloud Computing` 
