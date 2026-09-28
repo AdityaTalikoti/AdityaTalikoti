@@ -4,7 +4,7 @@
 
 ### Full Stack Developer • Cloud Computing Student • Open Source Contributor
 
-Building scalable web applications, exploring cloud technologies, and contributing to open-source projects — one project at a time.
+Building scalable web applications, exploring cloud technologies, and contributing to open-source projects — one project at a time
 
 <br/>
 
