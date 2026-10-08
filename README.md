@@ -12,7 +12,6 @@ Building scalable web applications, exploring cloud technologies, and contributi
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityatalikoti254@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaTalikoti)
 
-![Profile Views](https://komarev.com/ghpvc/?username=AdityaTalikoti&style=for-the-badge&color=6366f1)
 
 </div>
 
